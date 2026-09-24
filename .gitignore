@@ -12,4 +12,4 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 .env
-backend/.env
+backend/.envnode_modules/
