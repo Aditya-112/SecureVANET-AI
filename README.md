@@ -384,17 +384,16 @@ This project is licensed under the MIT License.
 
 # Author
 
-## VANSHIKA SHARMA 
+## ADITYA JAREDA
 
 **B.Tech Computer Science Engineering**  
 Netaji Subhas University of Technology (NSUT)
 
 **GitHub**  
-https://github.com/vanshi112
+https://github.com/Aditya-112
 
 **LinkedIn**  
-https://www.linkedin.com/in/vanshika-sharma-70bb2b288/
-
+www.linkedin.com/in/aditya-jareda-064811341
 ---
 
 If you found this project helpful or interesting, consider giving it a ⭐ on GitHub.
